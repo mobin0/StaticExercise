@@ -1,0 +1,14 @@
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.exe
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.deps.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.runtimeconfig.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.runtimeconfig.dev.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.dll
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\bin\Debug\netcoreapp3.1\StaticExercise.pdb
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.csproj.AssemblyReference.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.AssemblyInfoInputs.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.AssemblyInfo.cs
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.dll
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.pdb
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\StaticKeyword\StaticExercise\StaticExercise\obj\Debug\netcoreapp3.1\StaticExercise.genruntimeconfig.cache
